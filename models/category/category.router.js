@@ -1,1 +1,0 @@
-module.exports = require('../shared/resource').router(require('./category.controller'), true);
