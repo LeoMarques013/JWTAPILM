@@ -49,7 +49,8 @@ As listagens aceitam `page` e `limit` (máximo 100) e retornam `{ data, total, p
 - Os dados de entrada são validados com Zod.
 
 ## Testes e apresentação
-
+##LINK DO VIDEO
+##https://www.mediafire.com/file/wns899fi1lqg6gj/demonstracao-biblioteca.mp4/file
 ```bash
 node --test test/integration.test.js
 ```
